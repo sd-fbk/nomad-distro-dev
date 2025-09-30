@@ -1,3 +1,6 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/fabrication_utilities"]
+	path = packages/fabrication_utilities
+	url = https://github.com/sd-fbk/Fabrication-utilities.git
