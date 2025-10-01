@@ -4,3 +4,6 @@
 [submodule "packages/fabrication_utilities"]
 	path = packages/fabrication_utilities
 	url = https://github.com/sd-fbk/Fabrication-utilities.git
+[submodule "packages/characterization_utilities"]
+	path = packages/characterization_utilities
+	url = https://github.com/sd-fbk/Characterization-utilities.git
